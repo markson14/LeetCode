@@ -1,4 +1,4 @@
-### Longest Valid Parentheses 
+# Longest Valid Parentheses
 
 Given a string containing just the characters `'('` and `')'`, find the length of the longest valid (well-formed) parentheses substring.
 
@@ -17,5 +17,3 @@ Input: ")()())"
 Output: 4
 Explanation: The longest valid parentheses substring is "()()"
 ```
-
-------
