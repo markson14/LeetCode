@@ -1,11 +1,11 @@
 # Leetcode
 LeetCode training execrises
-* BFS []
-* DFS []
-* Union Find []
-* Binary Search [x]
-* Greedy Algorithm []
-* Dynamic Programming []
-* Sliding Windows [x]
-* Hash Table []
-* etc
+- [ ] BFS 
+- [ ] DFS 
+- [ ] Union Find 
+- [x] Binary Search 
+- [ ] Greedy Algorithm 
+- [ ] Dynamic Programming 
+- [x] Sliding Windows 
+- [ ] Hash Table 
+- [ ] etc
