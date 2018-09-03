@@ -1,4 +1,6 @@
-# set之后，判断cur-1是否在set里。如果不在，则进行+1操作直到停止。这样节省了中间许多重复计算 44ms
+"""
+set之后，判断cur-1是否在set里。如果不在，则进行+1操作直到停止。这样节省了中间许多重复计算 44ms
+"""
 class Solution(object):
     def longestConsecutive(self, nums):
         """
