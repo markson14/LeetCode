@@ -8,4 +8,6 @@ LeetCode training execrises
 - [ ] Dynamic Programming 
 - [x] Sliding Windows 
 - [ ] Hash Table 
-- [ ] etc
+- [X] Tree
+- [ ] Linked List
+
