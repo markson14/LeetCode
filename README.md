@@ -1,7 +1,7 @@
 # Leetcode
 LeetCode training execrises
-- [ ] BFS 
-- [ ] DFS 
+- [x] BFS 
+- [x] DFS 
 - [ ] Union Find 
 - [x] Binary Search 
 - [ ] Greedy Algorithm 
