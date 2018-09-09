@@ -2,6 +2,7 @@
 LeetCode training execrises
 - [x] BFS 
 - [x] DFS 
+- [ ] Back Tracing
 - [ ] Union Find 
 - [x] Binary Search 
 - [ ] Greedy Algorithm 
