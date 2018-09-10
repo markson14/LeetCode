@@ -2,7 +2,7 @@
 LeetCode training exercises
 - [x] BFS 
   * [BFS](./BFS)
-  * [Binary Tree Pruning](./Binary\Tree\Pruning)
+  * [Binary Tree Pruning](./Binary&nbsp;Tree&nbsp;Pruning)
   * [Leaf-Similar Trees](./Leaf-Similar\Trees)
   * [Maximum Depth of N-ary Tree](./Maximum\Depth\of\N-ary\Tree)
 - [x] DFS 
