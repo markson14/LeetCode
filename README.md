@@ -1,6 +1,6 @@
 # Leetcode
 LeetCode training execrises
-- [x] BFS 
+- [x] BFS [BFS](./BFS)
 - [x] DFS 
 - [ ] Back Tracing
 - [ ] Union Find 
