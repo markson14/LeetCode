@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LeetCode
 LeetCode training exercises
 - [x] BFS 
@@ -5,6 +6,11 @@ LeetCode training exercises
   * [Binary Tree Pruning](./Binary Tree Pruning)
   * [Leaf-Similar Trees](./Leaf-Similar Trees)
   * [Maximum Depth of N-ary Tree](./Maximum Depth of N-ary Tree)
+=======
+# Leetcode
+LeetCode training execrises
+- [x] BFS [BFS](./BFS)
+>>>>>>> 7007a97c787704bc538ba72e8a851711ec4256e8
 - [x] DFS 
   * [Keys and Rooms](./Keys and Rooms)
   * [Max Area of Island](./Max Area of Island)
