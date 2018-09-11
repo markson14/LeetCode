@@ -48,6 +48,7 @@ LeetCode training exercises
 - [ ] Stack
   * [Longest Valid Paretheses](./Longest%20Valid%20Paretheses)
   * [Valid Parentheses](./Valid%20Parentheses)
+  * [132 Pattern](./132%20Pattern)
 - [ ] Math
   * [Repeated Substring Pattern](./Repeated%20Substring%20Pattern)
 - [x] [Sorting Methods](./Sorting%20Methods)
