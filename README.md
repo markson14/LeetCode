@@ -38,6 +38,7 @@ LeetCode training exercises
 - [x] Sliding Windows 
   * [Repeated DNA sequences](./Repeated%20DNA%20sequences)
 - [ ] Hash Table 
+  * [4Sum II](./4Sum%20II)
   * [Longest Nonrepeated substring](./Longest%20Nonrepeated%20substring)
 - [x] Tree
   * [Increasing order search tree](./Increasing%20order%20search%20tree)
