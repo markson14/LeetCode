@@ -1,5 +1,12 @@
-# LeetCode
-LeetCode training exercises
+# [LeetCode](https://leetcode.com/problemset/algorithms/)
+LeetCode training exercises webpage for reviewing
+
+Solutions are provided for each question including different languages and different ideas
+
+### Challenge Ongoing (137/200)
+### [Weekly Contest](https://leetcode.com/contest/)
+Every Sunday 11:30am ~ 1:00pm (1.5hours)
+### Topics of Algorithm
 - [x] BFS 
   * [BFS](./Solution/BFS)
   * [Binary Tree Pruning](./Solution/Binary%20Tree%20Purning)
@@ -40,6 +47,7 @@ LeetCode training exercises
 - [ ] Hash Table 
   * [4Sum II](./Solution/4Sum%20II)
   * [Longest Nonrepeated substring](./Solution/Longest%20Nonrepeated%20substring)
+  * [Bitwise ORs of substring](./Solution/Bitwise%20ORs%20of%20substring)
 - [x] Tree
   * [Increasing order search tree](./Solution/Increasing%20order%20search%20tree)
   * [Kth Smallest Element in a BST](./Solution/Kth%20Smallest%20Element%20in%20a%20BST)
