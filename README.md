@@ -46,6 +46,7 @@ LeetCode training exercises
   * [Validate Binary Search Tree](./Solution/Validate%20Binary%20Search%20Tree)
 - [ ] Linked List
   * [Find  Kth to Tail (ListNode)](./Solution/FindKthto%20Tail(ListNode))
+  * [Linked List Components](./Solution/Linked%20List%20Components)
 - [ ] Stack
   * [Longest Valid Paretheses](./Solution/Longest%20Valid%20Paretheses)
   * [Valid Parentheses](./Solution/Valid%20Parentheses)
