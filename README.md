@@ -47,7 +47,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
 - [ ] Hash Table 
   * [4Sum II](./Solution/4Sum%20II)
   * [Longest Nonrepeated substring](./Solution/Longest%20Nonrepeated%20substring)
-  * [Bitwise ORs of substring](./Bitwise%20ORs%20of%20substring)
+  * [Bitwise ORs of substring](./Solution/Bitwise%20ORs%20of%20substring)
 - [x] Tree
   * [Increasing order search tree](./Solution/Increasing%20order%20search%20tree)
   * [Kth Smallest Element in a BST](./Solution/Kth%20Smallest%20Element%20in%20a%20BST)
