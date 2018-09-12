@@ -1,4 +1,4 @@
-# LeetCode
+# [LeetCode](https://leetcode.com/problemset/algorithms/)
 LeetCode training exercises
 - [x] BFS 
   * [BFS](./Solution/BFS)
