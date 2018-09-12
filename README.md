@@ -1,5 +1,8 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/)
-LeetCode training exercises
+LeetCode training exercises webpage for reviewing
+### [Weekly Contest](https://leetcode.com/contest/)
+Every Sunday 11:30am ~ 1:00pm (1.5hours)
+### Topics of Algorithm
 - [x] BFS 
   * [BFS](./Solution/BFS)
   * [Binary Tree Pruning](./Solution/Binary%20Tree%20Purning)
