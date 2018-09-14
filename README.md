@@ -50,6 +50,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [4Sum II](./Solution/4Sum%20II)
   * [Longest Nonrepeated substring](./Solution/Longest%20Nonrepeated%20substring)
   * [Bitwise ORs of substring](./Solution/Bitwise%20ORs%20of%20substring)
+  * [Implement Magic Dictionary](./Solution/Implement%20Magic%20Dictionary)
 - [x] Tree
   * [Increasing order search tree](./Solution/Increasing%20order%20search%20tree)
   * [Kth Smallest Element in a BST](./Solution/Kth%20Smallest%20Element%20in%20a%20BST)
@@ -64,5 +65,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [132 Pattern](./Solution/132%20Pattern)
 - [ ] Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
+- [ ] Array
+  - [Longest Continuous Increasing Subsequence](./Solution/Longest%20Continuous%20Increasing%20Subsequence)
 - [x] [Sorting Methods](./Solution/Sorting%20Methods)
 
