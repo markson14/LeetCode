@@ -54,6 +54,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Increasing order search tree](./Solution/Increasing%20order%20search%20tree)
   * [Kth Smallest Element in a BST](./Solution/Kth%20Smallest%20Element%20in%20a%20BST)
   * [Validate Binary Search Tree](./Solution/Validate%20Binary%20Search%20Tree)
+  * [Smallest Subtree with all the Deepest Nodes](./Solution/Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes)
 - [ ] Linked List
   * [Find  Kth to Tail (ListNode)](./Solution/FindKthto%20Tail(ListNode))
   * [Linked List Components](./Solution/Linked%20List%20Components)
