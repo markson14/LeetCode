@@ -42,6 +42,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [UglyNumber](./Solution/UglyNumber)
   * [Unique Paths](./Solution/Unique%20Paths)
   * [UniquePathII](./Solution/UniquePathII)
+  * [Wiggle Subsequence](./Solution/WiggleSubsequence)
+  * [Interleaving String](./Solution/Interleaving%20String)
 - [x] Sliding Windows 
   * [Repeated DNA sequences](./Solution/Repeated%20DNA%20sequences)
 - [ ] Hash Table 
