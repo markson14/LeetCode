@@ -30,6 +30,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
 - [ ] Greedy Algorithm 
   * [Jump Game II](./Solution/Jump%20Game%20II)
   * [Jump Game](./Solution/Jump%20Game)
+  * [Non-overlapping intervals](./Solution/Non-overlapping%20intervals)
+  * [Is Subsequence](./Solution/Is%20Subsequence)
 - [ ] Dynamic Programming 
   * [Fib](./Solution/Fib)
   * [House Robber II](./Solution/House%20Robber%20II)
