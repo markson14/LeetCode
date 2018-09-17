@@ -12,21 +12,33 @@ class Solution(object): # 1384ms
                     res[i] = max(res[i],res[j]+1)
         return max(res)
 
-class Solution(object): # 32ms
+
+
+    """
+        time: 
+        space:
+    """
+
     def lengthOfLIS(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
-        if not nums or len(nums) == 0:
+        if nums==None or len(nums)==0:
             return 0
-        
-        lis = [nums[0]]
-        for i in range(1, len(nums)):
-            if nums[i] > lis[-1]:
-                lis.append(nums[i])
+        dp=[nums[0]]
+        n=len(nums)
+        for i in range(1,n):
+            lf=0
+            rt=len(dp)-1
+            while lf<rt:
+                mid=lf+(rt-lf)//2
+                if dp[mid]>=nums[i]:
+                    rt=mid
+                else:
+                    lf=mid+1
+            if lf==len(dp)-1 and dp[lf]<nums[i]:
+                dp.append(nums[i])
             else:
-                lis[bisect.bisect_left(lis, nums[i])] = nums[i]
-        
-        return len(lis)
-            
+                dp[lf]=nums[i]
+        return len(dp)
