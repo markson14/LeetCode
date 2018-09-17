@@ -50,6 +50,8 @@ LeetCode training exercises
   * [Longest Valid Paretheses](./Solution/Longest%20Valid%20Paretheses)
   * [Valid Parentheses](./Solution/Valid%20Parentheses)
   * [132 Pattern](./Solution/132%20Pattern)
+- [ ] Array
+  - [Can Place Flower](./Solution/Can%20Place%20Flowers)
 - [ ] Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
 - [x] [Sorting Methods](./Solution/Sorting%20Methods)
