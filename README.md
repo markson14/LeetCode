@@ -24,6 +24,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [N-Queens](./Solution/N-Queens)
   * [Generate Parentheses](./Solution/Generate%20Parentheses)
   * [Subset](./Solution/Subset)
+  * [Permutations](./Solution/Permutations)
+  * [Combination Sum](./Solution/Combination%20Sum)
 - [ ] Union Find 
   * [Friend Circles](./Solution/Friend%20Circles)
   * [Redundant Connection](./Solution/Redundant%20Connection)
