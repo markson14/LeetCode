@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (148/200)
+### Challenge Ongoing (156/200)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -22,6 +22,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
 - [ ] Back Tracing
   * [Letter Case Permutation](./Solution/Letter%20Case%20Permutation)
   * [N-Queens](./Solution/N-Queens)
+  * [Generate Parentheses](./Solution/Generate%20Parentheses)
+  * [Subset](./Solution/Subset)
 - [ ] Union Find 
   * [Friend Circles](./Solution/Friend%20Circles)
   * [Redundant Connection](./Solution/Redundant%20Connection)
