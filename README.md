@@ -46,6 +46,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [UniquePathII](./Solution/UniquePathII)
   * [Wiggle Subsequence](./Solution/WiggleSubsequence)
   * [Interleaving String](./Solution/Interleaving%20String)
+  * [Best Time to Buy and Sell Stock III](./Solution/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
+  * [Best Time to Buy and Sell Stock with Cooldown](./Solution/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
 - [x] Sliding Windows 
   * [Repeated DNA sequences](./Solution/Repeated%20DNA%20sequences)
 - [ ] Hash Table 
