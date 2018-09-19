@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (156/200)
+### Challenge Ongoing (161/200)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -52,6 +52,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Interleaving String](./Solution/Interleaving%20String)
   * [Best Time to Buy and Sell Stock III](./Solution/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
   * [Best Time to Buy and Sell Stock with Cooldown](./Solution/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
+  * [Best Time to Buy and Sell Stock with Transaction Fee](./Solution/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
 - [x] Sliding Windows 
   * [Repeated DNA sequences](./Solution/Repeated%20DNA%20sequences)
 - [ ] Hash Table 
