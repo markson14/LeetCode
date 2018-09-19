@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (156/200)
+### Challenge Ongoing (159/200)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
