@@ -36,6 +36,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Jump Game](./Solution/Jump%20Game)
   * [Non-overlapping intervals](./Solution/Non-overlapping%20intervals)
   * [Is Subsequence](./Solution/Is%20Subsequence)
+  * [Maximum Swap](./Solution/Maximum%20Swap)
 - [ ] Dynamic Programming 
   * [Fib](./Solution/Fib)
   * [House Robber II](./Solution/House%20Robber%20II)
@@ -53,6 +54,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Best Time to Buy and Sell Stock III](./Solution/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
   * [Best Time to Buy and Sell Stock with Cooldown](./Solution/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
   * [Best Time to Buy and Sell Stock with Transaction Fee](./Solution/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
+  * [Coin Change](./Solution/Coin%20Change)
 - [x] Sliding Windows 
   * [Repeated DNA sequences](./Solution/Repeated%20DNA%20sequences)
 - [ ] Hash Table 
