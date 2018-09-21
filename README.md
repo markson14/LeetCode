@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (161/200)
+### Challenge Ongoing (174/200)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -55,6 +55,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Best Time to Buy and Sell Stock with Cooldown](./Solution/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
   * [Best Time to Buy and Sell Stock with Transaction Fee](./Solution/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
   * [Coin Change](./Solution/Coin%20Change)
+  * [Maximal Square](./Solution/MaximalSquare)
 - [x] Sliding Windows 
   * [Repeated DNA sequences](./Solution/Repeated%20DNA%20sequences)
 - [ ] Hash Table 
@@ -71,15 +72,18 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
 - [ ] Linked List
   * [Find  Kth to Tail (ListNode)](./Solution/FindKthto%20Tail(ListNode))
   * [Linked List Components](./Solution/Linked%20List%20Components)
+  * [Add Two Numbers](./Solution/Add%20Two%20Numbers)
 - [ ] Stack
   * [Longest Valid Paretheses](./Solution/Longest%20Valid%20Paretheses)
   * [Valid Parentheses](./Solution/Valid%20Parentheses)
   * [132 Pattern](./Solution/132%20Pattern)
+  * [Simplify Path](./Solution/Simplify%20Path)
 - [ ] Array
   - [Can Place Flower](./Solution/Can%20Place%20Flowers)
 - [ ] Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
 - [ ] Array
-  - [Longest Continuous Increasing Subsequence](./Solution/Longest%20Continuous%20Increasing%20Subsequence)
+  * [Longest Continuous Increasing Subsequence](./Solution/Longest%20Continuous%20Increasing%20Subsequence)
+  * [Median of Two Sorted Arrays](./Solution/Median%20of%20Two%20Sorted%20Arrays)
 - [x] [Sorting Methods](./Solution/Sorting%20Methods)
 
