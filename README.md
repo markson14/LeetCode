@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (174/200)
+### Challenge Ongoing (177/200)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -24,6 +24,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [N-Queens](./Solution/N-Queens)
   * [Generate Parentheses](./Solution/Generate%20Parentheses)
   * [Subset](./Solution/Subset)
+  * [SubsetII](./Solution/SubsetII)
   * [Permutations](./Solution/Permutations)
   * [Combination Sum](./Solution/Combination%20Sum)
 - [ ] Union Find 
@@ -79,7 +80,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [132 Pattern](./Solution/132%20Pattern)
   * [Simplify Path](./Solution/Simplify%20Path)
 - [ ] Array
-  - [Can Place Flower](./Solution/Can%20Place%20Flowers)
+  * [Can Place Flower](./Solution/Can%20Place%20Flowers)
+  * [1-bit and 2-bit Characters](./Solition/1-bit%20and%202-bit%20Characters)
 - [ ] Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
 - [ ] Array
