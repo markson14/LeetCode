@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (177/200)
+### Challenge Ongoing (186/200)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -32,6 +32,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Redundant Connection](./Solution/Redundant%20Connection)
 - Binary Search 
   * [Search in Rotated Sorted Array II](./Solution/Search%20in%20Rotated%20Sorted%20Array%20II)
+  * [Search a 2D Matrix II](./Solution/Search%20a%202D%20Matrix II)
 - Greedy Algorithm 
   * [Jump Game II](./Solution/Jump%20Game%20II)
   * [Jump Game](./Solution/Jump%20Game)
@@ -88,5 +89,6 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
 - Array
   * [Longest Continuous Increasing Subsequence](./Solution/Longest%20Continuous%20Increasing%20Subsequence)
   * [Median of Two Sorted Arrays](./Solution/Median%20of%20Two%20Sorted%20Arrays)
+  * [Restore IP Addresses](./Solution/Restore%20IP%20Addresses)
 - [Sorting Methods](./Solution/Sorting%20Methods)
 
