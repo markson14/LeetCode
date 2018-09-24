@@ -67,6 +67,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Bitwise ORs of substring](./Solution/Bitwise%20ORs%20of%20substring)
   * [Implement Magic Dictionary](./Solution/Implement%20Magic%20Dictionary)
   * [Top K Frequent Elements](./Solution/Top%20K%20Frequent%20Elements)
+  * [3 Sum](./Solution/3Sums)
 - Tree
   * [Increasing order search tree](./Solution/Increasing%20order%20search%20tree)
   * [Kth Smallest Element in a BST](./Solution/Kth%20Smallest%20Element%20in%20a%20BST)
