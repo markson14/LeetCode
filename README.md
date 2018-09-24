@@ -32,7 +32,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Redundant Connection](./Solution/Redundant%20Connection)
 - Binary Search 
   * [Search in Rotated Sorted Array II](./Solution/Search%20in%20Rotated%20Sorted%20Array%20II)
-  * [Search a 2D Matrix II](./Solution/Search%20a%202D%20Matrix II)
+  * [Search a 2D Matrix II](./Solution/Search%20a%202D%20Matrix%20II)
 - Greedy Algorithm 
   * [Jump Game II](./Solution/Jump%20Game%20II)
   * [Jump Game](./Solution/Jump%20Game)
