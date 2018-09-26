@@ -85,7 +85,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
 - Array
   * [Can Place Flower](./Solution/Can%20Place%20Flowers)
   * [1-bit and 2-bit Characters](./Solition/1-bit%20and%202-bit%20Characters)
-  * [Minimum Index Sum of Two Lists](./Solution/Minimum%20Index%20Sum of%20Two%20Lists)
+  * [Minimum Index Sum of Two Lists](./Solution/Minimum%20Index%20Sum%20of%20Two%20Lists)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
