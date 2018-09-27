@@ -22,3 +22,10 @@ def Merge(left,right):
     result += left[l:]
     result += right[r:]
     return result
+
+if __name__ == '__main__':
+    print()
+    l = [2,3,5,6,3,2,1,3,4,5,6,7,8,5,4,1,3,4]
+    print(l)
+    print()
+    print(MergeSort(l))

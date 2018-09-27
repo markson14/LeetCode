@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (190/200)
+### Challenge Ongoing (196/200)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -95,5 +95,6 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Longest Continuous Increasing Subsequence](./Solution/Longest%20Continuous%20Increasing%20Subsequence)
   * [Median of Two Sorted Arrays](./Solution/Median%20of%20Two%20Sorted%20Arrays)
   * [Restore IP Addresses](./Solution/Restore%20IP%20Addresses)
+  * [Product of Array Except Self](./Solution/Product%20of%20Array%20Except%20Self)
 - [Sorting Methods](./Solution/Sorting%20Methods)
 

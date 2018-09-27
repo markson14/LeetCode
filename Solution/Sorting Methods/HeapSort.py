@@ -23,4 +23,11 @@ def heap_sort(lst):
         lst[0], lst[end] = lst[end], lst[0]
         sift_down(0, end - 1)
     return lst
+
+if __name__ == '__main__':
+    print()
+    l = [2,3,5,6,3,2,1,3,4,5,6,7,8,5,4,1,3,4]
+    print(l)
+    print()
+    print(heap_sort(l))
             
