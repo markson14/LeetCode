@@ -39,6 +39,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Non-overlapping intervals](./Solution/Non-overlapping%20intervals)
   * [Is Subsequence](./Solution/Is%20Subsequence)
   * [Maximum Swap](./Solution/Maximum%20Swap)
+  * [Partition Labels](./Solution/Partition%20Labels)
 - Dynamic Programming 
   * [Fib](./Solution/Fib)
   * [House Robber II](./Solution/House%20Robber%20II)
@@ -68,6 +69,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Implement Magic Dictionary](./Solution/Implement%20Magic%20Dictionary)
   * [Top K Frequent Elements](./Solution/Top%20K%20Frequent%20Elements)
   * [3 Sum](./Solution/3Sums)
+  * [Arithmetic Slices](./Solution/Arithmetic%20Slices)
 - Two Pointers
   * [Minimum Size Subarray Sum](./Solution/Minimum%20Size%20Subarray%20Sum)
 - Tree
