@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (196/200)
+### Challenge Ongoing (201/250)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -86,17 +86,18 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Valid Parentheses](./Solution/Valid%20Parentheses)
   * [132 Pattern](./Solution/132%20Pattern)
   * [Simplify Path](./Solution/Simplify%20Path)
-- Array
+- Array/String
   * [Can Place Flower](./Solution/Can%20Place%20Flowers)
   * [1-bit and 2-bit Characters](./Solition/1-bit%20and%202-bit%20Characters)
   * [Minimum Index Sum of Two Lists](./Solution/Minimum%20Index%20Sum%20of%20Two%20Lists)
-- Math
-  * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
-  * [Range Addition II](./Solution/Range%20Addition%20II)
-- Array
   * [Longest Continuous Increasing Subsequence](./Solution/Longest%20Continuous%20Increasing%20Subsequence)
   * [Median of Two Sorted Arrays](./Solution/Median%20of%20Two%20Sorted%20Arrays)
   * [Restore IP Addresses](./Solution/Restore%20IP%20Addresses)
   * [Product of Array Except Self](./Solution/Product%20of%20Array%20Except%20Self)
+  * [Partition Array into Disjoint Intervals](./Solution/Partition%20Array%20into%20Disjoint%20Intervals)
+  * [Word Subsets](./Solution/Word%20Subsets)
+- Math
+  * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
+  * [Range Addition II](./Solution/Range%20Addition%20II)
 - [Sorting Methods](./Solution/Sorting%20Methods)
 
