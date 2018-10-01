@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (201/250)
+### Challenge Ongoing (206/250)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -40,6 +40,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Is Subsequence](./Solution/Is%20Subsequence)
   * [Maximum Swap](./Solution/Maximum%20Swap)
   * [Partition Labels](./Solution/Partition%20Labels)
+  * [Increasing Triplet Subsequence](./Solution/Increasing%20Triplet%20Subsequence)
 - Dynamic Programming 
   * [Fib](./Solution/Fib)
   * [House Robber II](./Solution/House%20Robber%20II)
@@ -81,6 +82,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Find  Kth to Tail (ListNode)](./Solution/FindKthto%20Tail(ListNode))
   * [Linked List Components](./Solution/Linked%20List%20Components)
   * [Add Two Numbers](./Solution/Add%20Two%20Numbers)
+  * [Delete Node in a Linked List](./Solution/Delete%20Node%20in%20a%20Linked%20List)
+  * [Odd Even Linked List](./Solution/Odd%20Even%20Linked%20List)
 - Stack
   * [Longest Valid Paretheses](./Solution/Longest%20Valid%20Paretheses)
   * [Valid Parentheses](./Solution/Valid%20Parentheses)
@@ -96,6 +99,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Product of Array Except Self](./Solution/Product%20of%20Array%20Except%20Self)
   * [Partition Array into Disjoint Intervals](./Solution/Partition%20Array%20into%20Disjoint%20Intervals)
   * [Word Subsets](./Solution/Word%20Subsets)
+  * [Pascal's Triangle](./Solution/Pascal's%20Triangle)
+  * [Pascal's Triangle II](./Solution/Pascal's%20Triangle%20II)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)

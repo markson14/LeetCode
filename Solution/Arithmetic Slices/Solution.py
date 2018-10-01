@@ -11,3 +11,4 @@ class Solution:
                 dp[i] += dp[i-1] + 1
                 count += dp[i]
         return count
+
