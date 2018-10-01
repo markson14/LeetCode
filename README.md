@@ -84,6 +84,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Add Two Numbers](./Solution/Add%20Two%20Numbers)
   * [Delete Node in a Linked List](./Solution/Delete%20Node%20in%20a%20Linked%20List)
   * [Odd Even Linked List](./Solution/Odd%20Even%20Linked%20List)
+  * [Merge k Sorted Lists](./Solution/Merge%20k%20Sorted%20Lists)
 - Stack
   * [Longest Valid Paretheses](./Solution/Longest%20Valid%20Paretheses)
   * [Valid Parentheses](./Solution/Valid%20Parentheses)
