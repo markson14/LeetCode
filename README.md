@@ -71,6 +71,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Top K Frequent Elements](./Solution/Top%20K%20Frequent%20Elements)
   * [3 Sum](./Solution/3Sums)
   * [Arithmetic Slices](./Solution/Arithmetic%20Slices)
+  * [Group Anagrams](./Solution/Group%20Anagrams)
 - Two Pointers
   * [Minimum Size Subarray Sum](./Solution/Minimum%20Size%20Subarray%20Sum)
 - Tree
@@ -102,6 +103,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Word Subsets](./Solution/Word%20Subsets)
   * [Pascal's Triangle](./Solution/Pascal's%20Triangle)
   * [Pascal's Triangle II](./Solution/Pascal's%20Triangle%20II)
+  * [Rotate Image](./Solution/Rotate%20Image)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
