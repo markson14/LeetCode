@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (212/250)
+### Challenge Ongoing (214/250)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -27,6 +27,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [SubsetII](./Solution/SubsetII)
   * [Permutations](./Solution/Permutations)
   * [Combination Sum](./Solution/Combination%20Sum)
+  * [Letter Combinations of a Phone Number](./Solution/Letter%20Combinations%20of%20a%20Phone%20Number)
 - Union Find 
   * [Friend Circles](./Solution/Friend%20Circles)
   * [Redundant Connection](./Solution/Redundant%20Connection)
@@ -104,6 +105,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Pascal's Triangle](./Solution/Pascal's%20Triangle)
   * [Pascal's Triangle II](./Solution/Pascal's%20Triangle%20II)
   * [Rotate Image](./Solution/Rotate%20Image)
+  * [Set Matrix Zeroes](./Solution/Set%20Matrix%20Zeroes)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
