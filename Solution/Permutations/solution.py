@@ -1,3 +1,4 @@
+import itertools
 class Solution:
     """
         回溯法，若剩余list长度等于1，则将rest+result添加进输出结果list里面。
@@ -16,5 +17,14 @@ class Solution:
                 backtracking(rest[:i]+rest[i+1:],result+[c])
         backtracking(nums,[])
         return res
+
+    def permute(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+        return [i for i in itertools.permutations(nums)]
+
+    
             
                 

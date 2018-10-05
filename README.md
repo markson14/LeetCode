@@ -28,6 +28,10 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Permutations](./Solution/Permutations)
   * [Combination Sum](./Solution/Combination%20Sum)
   * [Letter Combinations of a Phone Number](./Solution/Letter%20Combinations%20of%20a%20Phone%20Number)
+  * [Combination Sum III](./Solution/Combination%20Sum%20III)
+  * [Combinations](./Solution/Combinations)
+  * [Permutations II](./Solution/Permutations%20II)
+
 - Union Find 
   * [Friend Circles](./Solution/Friend%20Circles)
   * [Redundant Connection](./Solution/Redundant%20Connection)
@@ -109,5 +113,6 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
+  * [Largest Triangle Area](./Solution/Largest%20Triangle%20Area)
 - [Sorting Methods](./Solution/Sorting%20Methods)
 
