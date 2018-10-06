@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (214/250)
+### Challenge Ongoing (220/250)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -68,6 +68,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Palindromic Substrings](./Solution/Palindromic%20Substrings)
 - Sliding Windows 
   * [Repeated DNA sequences](./Solution/Repeated%20DNA%20sequences)
+  * [Permutation in String](./Solution/Permutation%20in%20String)
 - Hash Table 
   * [4Sum II](./Solution/4Sum%20II)
   * [Longest Nonrepeated substring](./Solution/Longest%20Nonrepeated%20substring)
