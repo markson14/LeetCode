@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (220/250)
+### Challenge Ongoing (224/250)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -111,6 +111,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Pascal's Triangle II](./Solution/Pascal's%20Triangle%20II)
   * [Rotate Image](./Solution/Rotate%20Image)
   * [Set Matrix Zeroes](./Solution/Set%20Matrix%20Zeroes)
+  * [Max Increase to Keep City Skyline](./Solution/Max%20Increase%20to%20Keep%20City%20Skyline)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
