@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (224/250)
+### Challenge Ongoing (225/250)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -31,6 +31,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Combination Sum III](./Solution/Combination%20Sum%20III)
   * [Combinations](./Solution/Combinations)
   * [Permutations II](./Solution/Permutations%20II)
+  * [Permutation Sequence](./Solution/Permutation%20Sequence)
 
 - Union Find 
   * [Friend Circles](./Solution/Friend%20Circles)
