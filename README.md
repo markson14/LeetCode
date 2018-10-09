@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (225/250)
+### Challenge Ongoing (230/250)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -87,7 +87,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Validate Binary Search Tree](./Solution/Validate%20Binary%20Search%20Tree)
   * [Smallest Subtree with all the Deepest Nodes](./Solution/Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes)
   * [Binary Tree Pruning](./Solution/Binary%20Tree%20Pruning)
-- Linked List
+- [Linked List](./Solution/Definetion%20of%20Single%20Linked%20List)
   * [Find  Kth to Tail (ListNode)](./Solution/FindKthto%20Tail(ListNode))
   * [Linked List Components](./Solution/Linked%20List%20Components)
   * [Add Two Numbers](./Solution/Add%20Two%20Numbers)
