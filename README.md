@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (232/250)
+### Challenge Ongoing (235/250)
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -95,8 +95,12 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Odd Even Linked List](./Solution/Odd%20Even%20Linked%20List)
   * [Merge k Sorted Lists](./Solution/Merge%20k%20Sorted%20Lists)
   * [Remove Nth Node From End of List](./Solution/Remove%20Nth%20Node%20From%20End%20of%20List)
-  * [Insertion Sort List](./Solution/Insertio%20 Sort%20List)
+  * [Insertion Sort List](./Solution/Insertion%20Sort%20List)
   * [Remove Linked List Elements](./Solution/Remove%20Linked%20List%20Elements)
+  * [Linked List Cycle](./Solution/Linked%20List%20Cycle)
+  * [Linked List Cycle II](./Solution/Linked%20List%20Cycle%20II)
+  * [Reorder List](./Solution/Reorder%20List)
+  * [Swap Nodes in Pairs](./Solution/Swap%20Nodes%20in%20Pairs)
 - Stack
   * [Longest Valid Paretheses](./Solution/Longest%20Valid%20Paretheses)
   * [Valid Parentheses](./Solution/Valid%20Parentheses)
