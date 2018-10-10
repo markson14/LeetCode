@@ -101,6 +101,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Linked List Cycle II](./Solution/Linked%20List%20Cycle%20II)
   * [Reorder List](./Solution/Reorder%20List)
   * [Swap Nodes in Pairs](./Solution/Swap%20Nodes%20in%20Pairs)
+  * [Rotate List](./Solution/Rotate%20List)
+  * [Remove Duplicates from Sorted List II](./Solution/Remove%20Duplicates%20from%20Sorted%20List%20II)
 - Stack
   * [Longest Valid Paretheses](./Solution/Longest%20Valid%20Paretheses)
   * [Valid Parentheses](./Solution/Valid%20Parentheses)
