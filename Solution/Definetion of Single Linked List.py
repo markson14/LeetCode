@@ -2,25 +2,26 @@ class Node:
     def __init__(self, val):
         self.val = val
         self.next = None
+    def __repr__(self) -> str:
+        return '{} -> {} '.format(self.val, repr(self.next))
+    def append(self, val):
+        cur = self
+        while cur.next is not None:
+            cur = cur.next
+        cur.next = Node(val)
+
+def list_append_listnode(lst):
+    head = Node(0)
+    for i in lst:
+        head.append(i)
+    return head.next
 
 # Set up LinkedList
-node1 = Node(11)
-node2 = Node(22)
-node3 = Node(33)
-node1.next = node2
-node2.next = node3
+lst = [11,22,33]
 
-head = cur = top = node1
-out = []
-res = []
-
-# print input linkedlist
-while head:
-    out.append(head.val)
-    print(bool(head.next))
-    head = head.next
-    
-
+head = cur = top = list_append_listnode(lst)
+print()
+print("input: {}".format(head))
 # Delete Node
 while cur:
     if cur.val == 22:
@@ -30,9 +31,6 @@ while cur:
         cur = cur.next
 
 # print output linkedlist
-while top:
-    res.append(top.val)
-    top = top.next
 
-print("input: {}".format(out))
-print("output: {}".format(res))
+print("output: {}".format(head))
+print()
