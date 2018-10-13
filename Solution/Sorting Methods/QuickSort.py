@@ -48,6 +48,14 @@ def partition(alist,first,last):
     return rightmark
 
 if __name__ == '__main__':
+    """
+        平均时间复杂度：O(nlogn)
+        最好情况：O(nlogn)
+        最坏情况：O(n^2)
+        空间复杂度：O(logn)
+        排序方式：In-place
+        稳定性：不稳定
+    """
     print()
     l = [2,3,5,6,3,2,1,3,4,5,6,7,8,5,4,1,3,4]
     print(l)
