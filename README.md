@@ -67,6 +67,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Coin Change](./Solution/Coin%20Change)
   * [Maximal Square](./Solution/MaximalSquare)
   * [Palindromic Substrings](./Solution/Palindromic%20Substrings)
+  * [Edit Distance](./Solution/Edit%20Distance)
+  * [Delete Operation for Two Strings](./Solution/Delete%20Operation%20for%20Two%20Strings)
 - Sliding Windows 
   * [Repeated DNA sequences](./Solution/Repeated%20DNA%20sequences)
   * [Permutation in String](./Solution/Permutation%20in%20String)
