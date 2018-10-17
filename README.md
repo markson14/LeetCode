@@ -32,7 +32,6 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Combinations](./Solution/Combinations)
   * [Permutations II](./Solution/Permutations%20II)
   * [Permutation Sequence](./Solution/Permutation%20Sequence)
-
 - Union Find 
   * [Friend Circles](./Solution/Friend%20Circles)
   * [Redundant Connection](./Solution/Redundant%20Connection)
@@ -110,6 +109,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Valid Parentheses](./Solution/Valid%20Parentheses)
   * [132 Pattern](./Solution/132%20Pattern)
   * [Simplify Path](./Solution/Simplify%20Path)
+  * [Minimum Add to Make Parentheses Valid](./Solution/Minimum%20Add%20to%20Make%20Parentheses%20Valid)
 - Array/String
   * [Can Place Flower](./Solution/Can%20Place%20Flowers)
   * [1-bit and 2-bit Characters](./Solition/1-bit%20and%202-bit%20Characters)
@@ -125,6 +125,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Rotate Image](./Solution/Rotate%20Image)
   * [Set Matrix Zeroes](./Solution/Set%20Matrix%20Zeroes)
   * [Max Increase to Keep City Skyline](./Solution/Max%20Increase%20to%20Keep%20City%20Skyline)
+  * [Sort Array By Parity II](./Solution/Sort%20Array%20By%20Parity%20II)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
