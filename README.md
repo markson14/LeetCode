@@ -80,6 +80,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [3 Sum](./Solution/3Sums)
   * [Arithmetic Slices](./Solution/Arithmetic%20Slices)
   * [Group Anagrams](./Solution/Group%20Anagrams)
+  * [Long Pressed Name](./Solution/Long%20Pressed%20Name)
 - Two Pointers
   * [Minimum Size Subarray Sum](./Solution/Minimum%20Size%20Subarray%20Sum)
 - Tree
@@ -129,6 +130,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Set Matrix Zeroes](./Solution/Set%20Matrix%20Zeroes)
   * [Max Increase to Keep City Skyline](./Solution/Max%20Increase%20to%20Keep%20City%20Skyline)
   * [Sort Array By Parity II](./Solution/Sort%20Array%20By%20Parity%20II)
+  * [Binary Subarrays With Sum](./Solution/Binary%20Subarrays%20With%20Sum)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
