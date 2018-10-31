@@ -83,6 +83,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Long Pressed Name](./Solution/Long%20Pressed%20Name)
 - Two Pointers
   * [Minimum Size Subarray Sum](./Solution/Minimum%20Size%20Subarray%20Sum)
+  * [4Sum](./Solution/4Sum)
 - Tree
   * [Increasing order search tree](./Solution/Increasing%20order%20search%20tree)
   * [Kth Smallest Element in a BST](./Solution/Kth%20Smallest%20Element%20in%20a%20BST)
