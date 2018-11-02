@@ -3,7 +3,14 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (247/250)
+### Challenge Ongoing (257/300)
+- [x] 100 Problems Solved ⭕️
+- [x] 200 Problems Solved ⭕️
+- [x] 250 Problems Solved ⭕️
+- [ ] 300 Problems Solved ❌
+- [ ] 350 Problems Solved ❌
+- [ ] 400 Problems Solved ❌
+
 ### [Weekly Contest](https://leetcode.com/contest/)
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
@@ -135,6 +142,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Max Increase to Keep City Skyline](./Solution/Max%20Increase%20to%20Keep%20City%20Skyline)
   * [Sort Array By Parity II](./Solution/Sort%20Array%20By%20Parity%20II)
   * [Binary Subarrays With Sum](./Solution/Binary%20Subarrays%20With%20Sum)
+  * [Remove Duplicates from Sorted Array II](./Solution/Remove%20Duplicates%20from%20Sorted%20Array%20II)
+  * [Maximum Average Subarray I](./Solution/Maximum%20Average%20Subarray%20I)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
