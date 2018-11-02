@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/)
+# [LeetCode](https://leetcode.com/problemset/algorithms/) 🔶
 LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
@@ -11,7 +11,7 @@ Solutions are provided for each question including different languages and diffe
 - [ ] 350 Problems Solved ❌
 - [ ] 400 Problems Solved ❌
 
-### [Weekly Contest](https://leetcode.com/contest/)
+### [Weekly Contest](https://leetcode.com/contest/) ✏️
 Every Sunday 11:30am ~ 1:00pm (1.5hours)
 ### Topics of Algorithm
 - BFS 
