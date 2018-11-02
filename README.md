@@ -108,6 +108,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Swap Nodes in Pairs](./Solution/Swap%20Nodes%20in%20Pairs)
   * [Rotate List](./Solution/Rotate%20List)
   * [Remove Duplicates from Sorted List II](./Solution/Remove%20Duplicates%20from%20Sorted%20List%20II)
+  * [Partition List](./Solution/Partition%20List)
 - Heap
   * [Top K Frequent Words](./Solution/Top%20K%20Frequent%20Words)
   * [Find K Pairs with Smallest Sums](./Solution/Find%20K%20Pairs%20with%20Smallest%20Sums)
