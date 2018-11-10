@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (257/300)
+### Challenge Ongoing (260/300)
 - [x] 100 Problems Solved ⭕️
 - [x] 200 Problems Solved ⭕️
 - [x] 250 Problems Solved ⭕️
@@ -53,6 +53,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Maximum Swap](./Solution/Maximum%20Swap)
   * [Partition Labels](./Solution/Partition%20Labels)
   * [Increasing Triplet Subsequence](./Solution/Increasing%20Triplet%20Subsequence)
+  * [Task Scheduler](./Solution/Task%20Scheduler)
 - Dynamic Programming 
   * [Fib](./Solution/Fib)
   * [House Robber II](./Solution/House%20Robber%20II)
