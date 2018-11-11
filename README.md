@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (260/300)
+### Challenge Ongoing (261/300)
 - [x] 100 Problems Solved ⭕️
 - [x] 200 Problems Solved ⭕️
 - [x] 250 Problems Solved ⭕️
@@ -89,6 +89,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Arithmetic Slices](./Solution/Arithmetic%20Slices)
   * [Group Anagrams](./Solution/Group%20Anagrams)
   * [Long Pressed Name](./Solution/Long%20Pressed%20Name)
+  * [Reorder Log Files](./Solution/Reorder%20Log%20Files)
 - Two Pointers
   * [Minimum Size Subarray Sum](./Solution/Minimum%20Size%20Subarray%20Sum)
   * [4Sum](./Solution/4Sum)
@@ -100,6 +101,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Validate Binary Search Tree](./Solution/Validate%20Binary%20Search%20Tree)
   * [Smallest Subtree with all the Deepest Nodes](./Solution/Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes)
   * [Binary Tree Pruning](./Solution/Binary%20Tree%20Pruning)
+  * [Range Sum of BST](./Solution/Range%20Sum%20of%20BST)
 - [Linked List](./Solution/Definetion%20of%20Single%20Linked%20List.py)
   * [Find  Kth to Tail (ListNode)](./Solution/FindKthto%20Tail(ListNode))
   * [Linked List Components](./Solution/Linked%20List%20Components)
