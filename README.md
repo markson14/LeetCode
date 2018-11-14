@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (261/300)
+### Challenge Ongoing (266/300)
 - [x] 100 Problems Solved ⭕️
 - [x] 200 Problems Solved ⭕️
 - [x] 250 Problems Solved ⭕️
@@ -104,6 +104,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Range Sum of BST](./Solution/Range%20Sum%20of%20BST)
   * [Diameter of Binary Tree](./Solution/Diameter%20of%20Binary%20Tree)
   * [Subtree of Another Tree](./Solution/Subtree%20of%20Another%20Tree)
+  * [Path Sum III](./Solution/Path%20Sum%20III)
 - [Linked List](./Solution/Definetion%20of%20Single%20Linked%20List.py)
   * [Find  Kth to Tail (ListNode)](./Solution/FindKthto%20Tail(ListNode))
   * [Linked List Components](./Solution/Linked%20List%20Components)
