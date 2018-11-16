@@ -1,17 +1,20 @@
 class Solution:
+    def helper(self,s,l,r):
+        while l>=0 and r < len(s) and s[l]==s[r]:
+            r+=1
+            l-=1
+        return s[l+1:r]
     def longestPalindrome(self, s):
         """
         :type s: str
         :rtype: str
         """
-        if not s : return ""
-        if s == s[::-1]: return s
-        k = len(s)-1
-        i = 0
-        while k > 0:
-            for i in range(len(s) - k+1):
-                windows = s[i:i+k]
-                if windows == windows[::-1]:
-                    return windows
-            k -= 1
-        
+        res = ""
+        for i in range(len(s)):
+            tmp = self.helper(s,i,i)
+            if len(tmp) > len(res):
+                res = tmp
+            tmp = self.helper(s,i,i+1)
+            if len(tmp) > len(res):
+                res = tmp
+        return res
