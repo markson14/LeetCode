@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (266/300)
+### Challenge Ongoing (274/300)
 - [x] 100 Problems Solved ⭕️
 - [x] 200 Problems Solved ⭕️
 - [x] 250 Problems Solved ⭕️
@@ -54,6 +54,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Partition Labels](./Solution/Partition%20Labels)
   * [Increasing Triplet Subsequence](./Solution/Increasing%20Triplet%20Subsequence)
   * [Task Scheduler](./Solution/Task%20Scheduler)
+  * [Delete Columns to Make Sorted](./Solution/Delete%20Columns%20to%20Make%20Sorted)
 - Dynamic Programming 
   * [Fib](./Solution/Fib)
   * [House Robber II](./Solution/House%20Robber%20II)
@@ -155,6 +156,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Binary Subarrays With Sum](./Solution/Binary%20Subarrays%20With%20Sum)
   * [Remove Duplicates from Sorted Array II](./Solution/Remove%20Duplicates%20from%20Sorted%20Array%20II)
   * [Maximum Average Subarray I](./Solution/Maximum%20Average%20Subarray%20I)
+  * [Valid Mountain Array](./Solution/Valid%20Mountain%20Array)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
