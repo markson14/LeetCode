@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (274/300)
+### Challenge Ongoing (275/300)
 - [x] 100 Problems Solved ⭕️
 - [x] 200 Problems Solved ⭕️
 - [x] 250 Problems Solved ⭕️
@@ -55,6 +55,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Increasing Triplet Subsequence](./Solution/Increasing%20Triplet%20Subsequence)
   * [Task Scheduler](./Solution/Task%20Scheduler)
   * [Delete Columns to Make Sorted](./Solution/Delete%20Columns%20to%20Make%20Sorted)
+  * [Maximum Length of Pair Chain](./Solution/Maximum%20Length%20of%20Pair%20Chain)
 - Dynamic Programming 
   * [Fib](./Solution/Fib)
   * [House Robber II](./Solution/House%20Robber%20II)
