@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (275/300)
+### Challenge Ongoing (276/300)
 - [x] 100 Problems Solved ⭕️
 - [x] 200 Problems Solved ⭕️
 - [x] 250 Problems Solved ⭕️
@@ -163,6 +163,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Range Addition II](./Solution/Range%20Addition%20II)
   * [Largest Triangle Area](./Solution/Largest%20Triangle%20Area)
   * [ DI String Match](./Solution/DI%20String%20Match)
+  * [Integer Break](./Solution/Integer%20Break)
 - [Sorting Methods](./Solution/Sorting%20Methods)
   * [Quick Sort](./Solution/Sorting%20Methods/QuickSort.py)
   * [Merge Sort](./Solution/Sorting%20Methods/MergeSort.py)
