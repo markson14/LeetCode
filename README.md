@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (276/300)
+### Challenge Ongoing (279/300)
 - [x] 100 Problems Solved ⭕️
 - [x] 200 Problems Solved ⭕️
 - [x] 250 Problems Solved ⭕️
@@ -56,6 +56,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Task Scheduler](./Solution/Task%20Scheduler)
   * [Delete Columns to Make Sorted](./Solution/Delete%20Columns%20to%20Make%20Sorted)
   * [Maximum Length of Pair Chain](./Solution/Maximum%20Length%20of%20Pair%20Chain)
+  * [Bag of Tokens](./Solution/Bag%20of%20Tokens)
 - Dynamic Programming 
   * [Fib](./Solution/Fib)
   * [House Robber II](./Solution/House%20Robber%20II)
@@ -138,6 +139,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [132 Pattern](./Solution/132%20Pattern)
   * [Simplify Path](./Solution/Simplify%20Path)
   * [Minimum Add to Make Parentheses Valid](./Solution/Minimum%20Add%20to%20Make%20Parentheses%20Valid)
+  * [Validate Stack Sequences](./Solution/Validate%20Stack%20Sequences)
 - Array/String
   * [Can Place Flower](./Solution/Can%20Place%20Flowers)
   * [1-bit and 2-bit Characters](./Solition/1-bit%20and%202-bit%20Characters)
@@ -158,6 +160,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Remove Duplicates from Sorted Array II](./Solution/Remove%20Duplicates%20from%20Sorted%20Array%20II)
   * [Maximum Average Subarray I](./Solution/Maximum%20Average%20Subarray%20I)
   * [Valid Mountain Array](./Solution/Valid%20Mountain%20Array)
+  * [Minimum Increment to Make Array Unique](./Solution/Minimum%20Increment%20to%20Make%20Array%20Unique)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
