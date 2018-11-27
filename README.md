@@ -3,7 +3,7 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (279/300)
+### Challenge Ongoing (280/300)
 - [x] 100 Problems Solved ⭕️
 - [x] 200 Problems Solved ⭕️
 - [x] 250 Problems Solved ⭕️
@@ -26,6 +26,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [NumbersofIslands](./Solution/NumbersofIslands)
   * [RightSideView](./Solution/RightSideView)
   * [Surrounding Blocks](./Solution/Surrounding%20Blocks)
+  * [Longest Increasing Path in a Matrix](./Solution/Longest%20Increasing%20Path%20in%20a%20Matrix)
 - Back Tracing
   - [Combinations](./Solution/Combinations)
   - [Combination Sum](./Solution/Combination%20Sum)
