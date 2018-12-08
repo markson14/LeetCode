@@ -27,3 +27,28 @@ class Solution(object):
                 cur.val = one.pop(0)
                 cur = cur.next
         return head
+
+class Solution2:
+    def swapPairs(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        直接内部交换，没有适用外部空间
+        """
+        tag = 1
+        if head and head.next:
+            fast = head.next
+            slow = head
+        else:
+            return head
+        while fast:
+            if tag:
+                fast.val,slow.val = slow.val,fast.val
+                fast = fast.next
+                slow = slow.next
+                tag -= 1
+            else:
+                fast = fast.next
+                slow = slow.next
+                tag += 1
+        return head

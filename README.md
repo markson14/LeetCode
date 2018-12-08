@@ -44,6 +44,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Friend Circles](./Solution/Friend%20Circles)
   * [Redundant Connection](./Solution/Redundant%20Connection)
 - Binary Search 
+  * [Search in Rotated Sorted Array](./Solution/Search%20in%20Rotated%20Sorted%20Array)
   * [Search in Rotated Sorted Array II](./Solution/Search%20in%20Rotated%20Sorted%20Array%20II)
   * [Search a 2D Matrix II](./Solution/Search%20a%202D%20Matrix%20II)
 - Greedy Algorithm 
@@ -105,6 +106,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [3Sum Closest](./Solution/3Sum%20Closest)
   * [4Sum](./Solution/4Sum)
   * [Container With Most Water](./Solution/Container%20With%20Most%20Water)
+  * [Next Permutation](./Solution/Next%20Permutation)
 - Tree
   * [Increasing order search tree](./Solution/Increasing%20order%20search%20tree)
   * [Kth Smallest Element in a BST](./Solution/Kth%20Smallest%20Element%20in%20a%20BST)
