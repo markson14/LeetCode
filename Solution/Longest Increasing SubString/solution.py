@@ -1,24 +1,25 @@
+import bisect
 class Solution(object): # 1384ms
     def lengthOfLIS(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
-        if not nums: return 0
-        res = [1]*len(nums)
-        for i in range(len(nums)):
-            for j in range(i):
-                if nums[i]>nums[j]:
-                    res[i] = max(res[i],res[j]+1)
-        return max(res)
-
-
+        dp = []
+        for n in nums:
+            m = bisect.bisect_left(dp, n) # 在dp中查找比n小的数并返回插入的index number
+            if m < len(dp):
+                dp[m] = n
+            else:
+                dp.append(n)
+        
+        return dp
 
     """
         time: 
         space:
     """
-
+class Solution2(object):
     def lengthOfLIS(self, nums):
         """
         :type nums: List[int]
