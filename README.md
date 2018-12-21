@@ -3,11 +3,11 @@ LeetCode training exercises webpage for reviewing
 
 Solutions are provided for each question including different languages and different ideas
 
-### Challenge Ongoing (280/300)
+### Challenge Ongoing (300/350)
 - [x] 100 Problems Solved ⭕️
 - [x] 200 Problems Solved ⭕️
 - [x] 250 Problems Solved ⭕️
-- [ ] 300 Problems Solved ❌
+- [x] 300 Problems Solved ️️⭕️
 - [ ] 350 Problems Solved ❌
 - [ ] 400 Problems Solved ❌
 
@@ -47,6 +47,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Search in Rotated Sorted Array](./Solution/Search%20in%20Rotated%20Sorted%20Array)
   * [Search in Rotated Sorted Array II](./Solution/Search%20in%20Rotated%20Sorted%20Array%20II)
   * [Search a 2D Matrix II](./Solution/Search%20a%202D%20Matrix%20II)
+  * [Pow(x, n)](./Solution/Pow(x,%20n))
 - Greedy Algorithm 
   * [Jump Game II](./Solution/Jump%20Game%20II)
   * [Jump Game](./Solution/Jump%20Game)
