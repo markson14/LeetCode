@@ -167,6 +167,8 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Maximum Average Subarray I](./Solution/Maximum%20Average%20Subarray%20I)
   * [Valid Mountain Array](./Solution/Valid%20Mountain%20Array)
   * [Minimum Increment to Make Array Unique](./Solution/Minimum%20Increment%20to%20Make%20Array%20Unique)
+  * [Spiral Matrix](./Solution/Spiral%20Matrix)
+  * [Spiral Matrix II](./solution/Spiral%20Matrix%20II)
 - Math
   * [Repeated Substring Pattern](./Solution/Repeated%20Substring%20Pattern)
   * [Range Addition II](./Solution/Range%20Addition%20II)
