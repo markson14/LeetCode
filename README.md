@@ -108,6 +108,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [4Sum](./Solution/4Sum)
   * [Container With Most Water](./Solution/Container%20With%20Most%20Water)
   * [Next Permutation](./Solution/Next%20Permutation)
+  * [Trapping Rain Water](./Solution/Trapping%20Rain%20Water)
 - Tree
   * [Increasing order search tree](./Solution/Increasing%20order%20search%20tree)
   * [Kth Smallest Element in a BST](./Solution/Kth%20Smallest%20Element%20in%20a%20BST)
