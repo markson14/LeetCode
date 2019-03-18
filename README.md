@@ -48,7 +48,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [Search in Rotated Sorted Array](./Solution/Search%20in%20Rotated%20Sorted%20Array)
   * [Search in Rotated Sorted Array II](./Solution/Search%20in%20Rotated%20Sorted%20Array%20II)
   * [Search a 2D Matrix II](./Solution/Search%20a%202D%20Matrix%20II)
-  * [Pow(x, n)](./Solution/Pow)
+  * [Pow(x, n)](./Solution/pow)
 - Greedy Algorithm 
   * [Jump Game II](./Solution/Jump%20Game%20II)
   * [Jump Game](./Solution/Jump%20Game)

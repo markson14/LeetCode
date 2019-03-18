@@ -4,4 +4,4 @@ def newtown_sqrt(x):
         obj = (obj+x/obj)/2
     return obj
 
-print(newtown_sqrt(9))
+print(newtown_sqrt(25))
