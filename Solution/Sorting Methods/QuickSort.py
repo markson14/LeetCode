@@ -36,13 +36,9 @@ def partition(alist,first,last):
         if rightmark < leftmark:
             done = True
         else:
-            temp = alist[leftmark]
-            alist[leftmark] = alist[rightmark]
-            alist[rightmark] = temp
+            alist[leftmark],alist[rightmark] = alist[rightmark],alist[leftmark]
 
-    temp = alist[first]
-    alist[first] = alist[rightmark]
-    alist[rightmark] = temp
+    alist[first],alist[rightmark] = alist[rightmark],alist[first]
 
 
     return rightmark

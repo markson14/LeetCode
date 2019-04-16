@@ -55,3 +55,9 @@ class Solution2:
                 else:
                     l += 1
         return res
+
+if __name__ == "__main__":
+    lis = [-1, 0, 1, 2, -1, -4]
+    sol = Solution1
+    ans = sol.threeSum(0,lis)
+    print(ans)

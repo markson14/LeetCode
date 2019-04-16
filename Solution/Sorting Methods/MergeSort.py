@@ -5,7 +5,7 @@
 def MergeSort(lists):
     if len(lists) <= 1:
         return lists
-    num = int( len(lists) / 2 )
+    num = len(lists) // 2
     left = MergeSort(lists[:num])
     right = MergeSort(lists[num:])
     return Merge(left, right)
