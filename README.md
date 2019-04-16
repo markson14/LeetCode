@@ -27,6 +27,7 @@ Every Sunday 11:30am ~ 1:00pm (1.5hours)
   * [RightSideView](./Solution/RightSideView)
   * [Surrounding Blocks](./Solution/Surrounding%20Blocks)
   * [Longest Increasing Path in a Matrix](./Solution/Longest%20Increasing%20Path%20in%20a%20Matrix)
+  * [Maximum Difference Between Node and Ancestor](./Solution/Maximum%20Difference%20Between%20Node%20and%20Ancestor)
 - Back Tracing
   - [Combinations](./Solution/Combinations)
   - [Combination Sum](./Solution/Combination%20Sum)
