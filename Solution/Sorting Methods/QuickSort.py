@@ -5,43 +5,48 @@
         3.然后在对pivot左右两个区间
         4.左右区间重复1,2,3知道区间长度等于1
 """
-def quickSort(alist):
-    quickSortHelper(alist,0,len(alist)-1)
-    return alist
-
-def quickSortHelper(alist,first,last):
-    if first<last:
-
-        splitpoint = partition(alist,first,last)
-
-        quickSortHelper(alist,first,splitpoint-1)
-        quickSortHelper(alist,splitpoint+1,last)
+import numpy as np
+np.random.seed(1212)
 
 
-def partition(alist,first,last):
-    pivotvalue = alist[first]
+def quick_sort(nlist):
+    first, last = 0, len(nlist)-1
+    quick_sort_helper(nlist, first, last)
 
-    leftmark = first+1
-    rightmark = last
 
-    done = False
-    while not done:
+def quick_sort_helper(nlist, first, last):
+    if first < last:
+        # 选择分裂点，分裂点左区间小于分裂点，右区间大于分裂点
+        splitpoint = partition(nlist, first, last)
+        # 对分裂点的左区间做快排
+        quick_sort_helper(nlist, first, splitpoint-1)
+        # 对分裂点的右区间做快排
+        quick_sort_helper(nlist, splitpoint+1, last)
 
-        while leftmark <= rightmark and alist[leftmark] <= pivotvalue:
-            leftmark = leftmark + 1
 
-        while alist[rightmark] >= pivotvalue and rightmark >= leftmark:
-            rightmark = rightmark -1
-
-        if rightmark < leftmark:
-            done = True
+def partition(nlist, first, last):
+    # 选择L0作为基准点
+    pivot = nlist[first]
+    # 左，右index选择
+    left, right = first+1, last
+    while True:
+        # loop从左寻找比基准点大的值
+        while left <= right and nlist[left] <= pivot:
+            left += 1
+        # loop从右寻找比基准点小的值
+        while left <= right and nlist[right] >= pivot:
+            right -= 1
+        # 如果左比右大，证明右半边都比基准点大，退出
+        if left > right:
+            break
+        # 否则，交换左，右index的值并继续loop
         else:
-            alist[leftmark],alist[rightmark] = alist[rightmark],alist[leftmark]
+            nlist[left], nlist[right] = nlist[right], nlist[left]
+    # 交换基准点的值和右index，使得右区间比基准点大，左半边比基准点小
+    nlist[first], nlist[right] = nlist[right], nlist[first]
+    # 返回splitpoint
+    return right
 
-    alist[first],alist[rightmark] = alist[rightmark],alist[first]
-
-
-    return rightmark
 
 if __name__ == '__main__':
     """
@@ -53,7 +58,8 @@ if __name__ == '__main__':
         稳定性：不稳定
     """
     print()
-    l = [2,3,5,6,3,2,1,3,4,5,6,7,8,5,4,1,3,4]
+    l = np.random.random_integers(0, 100, 20)
     print(l)
     print()
-    print(quickSort(l))
+    quick_sort(l)
+    print(l)

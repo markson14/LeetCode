@@ -1,14 +1,21 @@
-def func(l) -> list:
+import numpy as np
+np.random.seed(1212)
+"""
+1. select 
+"""
+
+
+def insertionSort(l) -> list:
     n = len(l)
-    for i in range(1,n):
+    for i in range(1, n):
         preindex = i-1
         cur = l[i]
-        while preindex>=0 and l[preindex] > cur:
+        print(l, preindex)
+        while preindex >= 0 and l[preindex] > cur:
             l[preindex+1] = l[preindex]
             preindex -= 1
         l[preindex+1] = cur
     return l
-
 
 
 if __name__ == '__main__':
@@ -21,7 +28,7 @@ if __name__ == '__main__':
         稳定性：稳定
     """
     print()
-    l = [2,3,5,6,3,2,1,3,4,5,6,7,8,5,4,1,3,4]
+    l = np.random.random_integers(0, 100, 20)
     print('unsorted: {}'.format(l))
     print()
-    print('sorted: {}'.format(func(l)))
+    print('sorted: {}'.format(insertionSort(l)))

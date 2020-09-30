@@ -1,27 +1,43 @@
 """
     归并排序，基本思想是divide and conquer
 """
+import numpy as np
+np.random.seed(1212)
 
-def MergeSort(lists):
-    if len(lists) <= 1:
-        return lists
-    num = len(lists) // 2
-    left = MergeSort(lists[:num])
-    right = MergeSort(lists[num:])
-    return Merge(left, right)
-def Merge(left,right):
-    r, l=0, 0
-    result=[]
-    while l<len(left) and r<len(right):
-        if left[l] < right[r]:
-            result.append(left[l])
-            l += 1
-        else:
-            result.append(right[r])
+
+def merge_sort(nlist):
+    n = len(nlist)
+    # 如果区间小于2，则直接返回
+    if n < 2:
+        return nlist
+    # 计算中心点
+    mid = n//2
+    # 对左区间做merge sort递归
+    left = merge_sort(nlist[:mid])
+    # 对右区间做merge sort递归
+    right = merge_sort(nlist[mid:])
+    # 对左右区间做merge操作
+    return merge(left, right)
+
+
+def merge(left, right):
+    res = []
+    l, r = 0, 0
+    # 当左右index小于左右区间长度
+    while l < len(left) and r < len(right):
+        # 比较左右index值的大小，并加入空list
+        if left[l] > right[r]:
+            res.append(right[r])
             r += 1
-    result += left[l:]
-    result += right[r:]
-    return result
+        else:
+            res.append(left[l])
+            l += 1
+    # 将剩余部分添加进list
+    res.extend(left[l:])
+    res.extend(right[r:])
+
+    return res
+
 
 if __name__ == '__main__':
     """
@@ -33,7 +49,7 @@ if __name__ == '__main__':
         稳定性：稳定
     """
     print()
-    l = [2,3,5,6,3,2,1,3,4,5,6,7,8,5,4,1,3,4]
+    l = np.random.random_integers(0, 100, 20)
     print(l)
     print()
-    print(MergeSort(l))
+    print(merge_sort(l))
