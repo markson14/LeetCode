@@ -1,38 +1,64 @@
-def get_next_array(t_list):
-    nxt = [0]*len(t)
-    nxt[0], nxt[1] = -1, 0
-    for j in range(2, len(t)):
-        k = nxt[j-1]
-        while k != -1:
-            if t[j-1] == t[k]:
-                nxt[j] = k+1
-                break
+"""
+KMP算法
+1. 公共前缀表
+2. 每次从公共前缀失败的index开始往下匹配
+"""
+
+
+def move_table(prefix):
+    # 移动prefix table方便后续匹配
+    prefix[1:] = prefix[:-1]
+    prefix[0] = -1
+    return prefix
+
+
+def prefix_table(pattern, n):
+    # 初始化prefix table
+    prefix = [0]*len(pattern)
+    pre_len = 0
+    i = 1
+    while i < n:
+        if pattern[i] == pattern[pre_len]:
+            pre_len += 1
+            prefix[i] = pre_len
+            i += 1
+        else:
+            if pre_len > 0:
+                pre_len = prefix[pre_len-1]
             else:
-                k = nxt[k]
-            nxt[j] = 0
-    return nxt
+                prefix[i] = pre_len
+                i += 1
+
+    return prefix
 
 
-def KMPMatch(s, t):
-    s_list = list(s)
-    t_list = list(t)
-    nxt = get_next_array(t_list)
+def kmp_search(text, pattern):
+    text = list(text)
+    pattern = list(pattern)
+    n = len(pattern)
+    m = len(text)
+    prefix = move_table(prefix_table(pattern, n))
     i, j = 0, 0
-    while i < len(s_list) and j < len(t_list):
-        if j == -1 or s_list[i] == t_list[j]:
+    while i < m:
+        if j == n-1 and text[i] == pattern[j]:
+            print(i-j)
+            j = prefix[j]
+        if text[i] == pattern[j]:
             i += 1
             j += 1
         else:
-            j = nxt[j]
-    if j == len(t_list):
-        return i-j
-    else:
-        return -1
+            j = prefix[j]
+            if j == -1:
+                i += 1
+                j += 1
 
 
 if __name__ == "__main__":
-    s = 'ACBACAACAACACAACAB'
+    s = 'ACBACAACAACABACAACAACABABCC'
     t = 'ACAACAB'
-    result = KMPMatch(s, t)
-    print('Location:', result)
-    print('S String:',''.join(s[result:]))
+    prefix = move_table(prefix_table(t, len(t)))
+    print('target array:', t)
+    print('prefix table:', prefix)
+    kmp_search(s, t)
+    # print('Location:', result)
+    # print('S String:', ''.join(s[result:]))
