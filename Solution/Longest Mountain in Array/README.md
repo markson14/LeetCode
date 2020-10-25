@@ -31,3 +31,28 @@ Explanation: There is no mountain.
 
 1. `0 <= A.length <= 10000`
 2. `0 <= A[i] <= 10000`
+
+
+
+```python
+class Solution:
+    def longestMountain(self, A: List[int]) -> int:
+        if len(A) < 3:
+            return 0
+        max_len = 0
+        for i in range(1, len(A)-1):
+            l,r = i,i
+            # is mountain, widden from mid
+            if A[i] > A[i-1] and A[i] > A[i+1]:
+                res = 1
+                while l-1 >= 0 and A[l-1] < A[l]:
+                    l -= 1
+                    res += 1
+                while r+1 < len(A) and A[r+1] < A[r]:
+                    r += 1
+                    res += 1
+                max_len = max(max_len, res)
+                
+        return max_len
+```
+
