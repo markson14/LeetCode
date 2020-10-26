@@ -58,6 +58,11 @@ class LFUCache:
         self.min_freq = 1
         
     def update(self, key:int, value=None):
+      	'''
+      	update cache status if key in cache already. 
+      		- data_freq += 1
+      		- cache[freq] += 1, cache[freq][key] = value
+      	'''
         freq = self.key_freq[key]
         nxt_freq = freq + 1
         self.key_freq[key] = nxt_freq
@@ -69,7 +74,9 @@ class LFUCache:
         
 
     def get(self, key: int) -> int:
-        
+      	'''
+      	if key in cache, update status, else return -1
+      	'''
         if key in self.key_freq:
             res = self.update(key)
             # print('get', self.cache, self.key_freq)
@@ -80,13 +87,17 @@ class LFUCache:
 
 
     def put(self, key: int, value: int) -> None:
+      	# edge case cap == 0
         if self.cap == 0:
             return
+        # update value if key in key_freq
         if key in self.key_freq:
             self.update(key, value) 
         else:
+          	# len >= cap, do remove least frequently used element
             if len(self.key_freq) >= self.cap:
                 self.key_freq.pop(self.cache[self.min_freq].popitem(last=False)[0])
+            # add new element to cache and key_freq
             self.min_freq = 1
             self.key_freq[key] = 1
             self.cache[1][key] = value

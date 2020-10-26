@@ -17,3 +17,22 @@ Input: coins = [2], amount = 3
 Output: -1
 ```
 
+
+
+```python
+class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+      	# 初始化dp，值为amount+1，方便后续min操作
+        dp = [amount+1]*(amount+1)
+        dp[0] = 0
+        for i in range(len(dp)):
+            for coin in coins:
+              	# 子状态小于0，则继续
+                if i-coin < 0: continue
+                # 反之，则比较当前和使用当前coin的最小值
+                else:
+                    dp[i] = min(dp[i], dp[i-coin]+1)
+        # 如果最后一个不等于初始化的amount+1，则return，反之return -1
+        return dp[amount] if dp[amount] != amount+1 else -1
+```
+
