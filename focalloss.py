@@ -8,10 +8,15 @@ class FocalLoss(nn.Module):
     softmax = - [ylog(p) + (1-y)log(1-p)], y={0,1}
     Focal Loss = - [y*alpha*(1-p)**gamma * log(p) + (1-y)*(1-alpha)*p**gamma * log(1-p)], y={0,1}
     '''
-
-    def __init__(self, gamma=0, alpha=None, size_average=True):
+    def __init__(self, gamma=0.25, alpha=2, size_average=True):
+        '''
+        gamma[defult]: 2       |   set [0] is CrossEntropy
+        alpha[default]: 0.25   |   set [1] is CrossEntropy
+        '''
         super(FocalLoss, self).__init__()
+        # 难易样本学习的权重
         self.gamma = gamma
+        # 调节正负样本的比例
         self.alpha = alpha
         if isinstance(alpha, (float, int, long)):
             self.alpha = torch.Tensor([alpha, 1-alpha])
