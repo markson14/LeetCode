@@ -28,13 +28,17 @@ class MonoticWindows():
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
         res = []
+        # 初始化单调窗口
         win = MonoticWindows()
         for i in range(len(nums)):
             if i < k-1:
                 win.push(nums[i])
             else:
+                # 将当前推入窗口
                 win.push(nums[i])
+                # 添加窗口max值
                 res.append(win.max())
+                # 如果移除单调窗口最左侧值
                 win.remove(nums[i-k+1])
         return res
 
